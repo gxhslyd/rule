@@ -35,3 +35,9 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,services.googleapis.cn
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
+#my
+IP-CIDR,20.198.0.0/12,no-resolv
+IP-CIDR,13.128.0.0/12,no-resolv
+IP-CIDR,204.79.0.0/12,no-resolv
+IP-CIDR,52.198.0.0/12,no-resolv
+IP-CIDR,40.126.0.0/12,no-resolv
