@@ -33,6 +33,7 @@ IP-CIDR,35.81.198.0/24,no-resolve
 IP-CIDR,35.82.63.0/24,no-resolve
 IP-CIDR,44.225.17.0/24,no-resolve
 IP-CIDR,44.226.179.0/24,no-resolve
+IP-CIDR,44.228.67.0/24,no-resolve
 IP-CIDR,44.229.50.0/24,no-resolve
 IP-CIDR,44.229.122.0/24,no-resolve
 IP-CIDR,44.229.178.0/24,no-resolve
