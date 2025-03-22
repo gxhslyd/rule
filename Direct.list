@@ -6,8 +6,17 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
+DOMAIN-SUFFIX,terra-master.com
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,youxi8848.com
+DOMAIN-SUFFIX,tcy365.net
+DOMAIN-SUFFIX,uc108.net
+
 DOMAIN-SUFFIX,msn.cn
-#DOMAIN-SUFFIX,msn.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
