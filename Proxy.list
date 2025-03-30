@@ -28,6 +28,8 @@ IP-CIDR,128.121.0.0/16,no-resolve
 IP-CIDR,4.144.0.0/12,no-resolve
 IP-CIDR,20.192.0.0/10,no-resolve
 IP-CIDR,184.88.0.0/14,no-resolve
+IP-CIDR,74.125.0.0/16,no-resolve
+IP-CIDR,173.194.0.0/16,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -58,6 +60,24 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,cloudflare-ech.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,use.typekit.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,hsforms.net
+DOMAIN-SUFFIX,api.iconify.design
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,scene7.com
+DOMAIN-SUFFIX,coldlake3.com
+DOMAIN-SUFFIX,unisvg.com
+DOMAIN-SUFFIX,webpkgcache.com
+DOMAIN-SUFFIX,simplesvg.com
+DOMAIN-SUFFIX,adobeccstatic.com
 
 DOMAIN-SUFFIX,api.ttt.sh
 DOMAIN-SUFFIX,cdn.onenote.net
