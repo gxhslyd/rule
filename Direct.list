@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,tcy365.net
 DOMAIN-SUFFIX,uc108.net
 
 DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,zvo.cn
+DOMAIN-SUFFIX,picui.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
