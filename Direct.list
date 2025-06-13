@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,csdn.net
 
 # 域名匹配
 DOMAIN,gh-proxy.com
+DOMAIN,forum.terra-master.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
