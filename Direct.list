@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,uc108.net
 DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,zvo.cn
 DOMAIN-SUFFIX,picui.cn
+DOMAIN-SUFFIX,csdn.net
 
 # 域名匹配
 DOMAIN,gh-proxy.com
