@@ -32,6 +32,8 @@ IP-CIDR,184.88.0.0/14,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 
+DOMAIN-KEYWORD,mihomo
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
