@@ -33,8 +33,8 @@ DOMAIN-SUFFIX,20298888.xyz
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,tudoujiasu2.com
 DOMAIN-SUFFIX,softether-network.net
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,office.com
+#DOMAIN-SUFFIX,microsoft.com
+#DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,ip.sb
@@ -42,7 +42,7 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,cloudflare-ech.com
-DOMAIN-SUFFIX,google.com
+#DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,use.typekit.net
 DOMAIN-SUFFIX,openstreetmap.org
@@ -50,7 +50,7 @@ DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,api.iconify.design
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,googleadservices.com
+#DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,scene7.com
