@@ -21,13 +21,15 @@ DOMAIN-SUFFIX,zvo.cn
 DOMAIN-SUFFIX,picui.cn
 DOMAIN-SUFFIX,csdn.net
 
+DOMAIN,cn.bing.com
+DOMAIN,stun.services.mozilla.com
+
 #hx
 DOMAIN,148.66.62.250
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org 
-DOMAIN,cn.bing.com
 
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,itunes.apple.com
