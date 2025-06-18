@@ -27,6 +27,7 @@ DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,injections.adguard.org
 DOMAIN,local.adguard.org 
+DOMAIN,cn.bing.com
 
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,itunes.apple.com
