@@ -13,6 +13,21 @@ DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
+# GooglePlay 相关
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,services.googleapis.cn
+
 # 其他网站
 DOMAIN-SUFFIX,sub.tudou216.com
 DOMAIN-SUFFIX,3.1coolcloud.de
